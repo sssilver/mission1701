@@ -1,0 +1,5 @@
+---
+date: 2018-02-03 13:58:23 +0400
+layout: post
+---
+One could wonder—what’s the big deal? Giving calculation instructions to a man-made machine. Yet every time I fire up the editor. I type in the magic incantations, fel green flowing from my fingertips onto the dark parchment of the terminal, and the spells glow brightly with colors as the syntax highlighter gives a silent nod to my austere accuracy. As I’m done casting the spells, the compiler percolates the magic from the abstract void into the haze of the reality. And I feel that distant eight year old again, sitting in front of that old, barely-working soviet PC, trying to fathom the miracle that for the first time someone—something—understood me strictly as I expressed myself, with precision unspoiled by emotions, ignorance, or hubris. What a privilege to have this passion, every day, for so many years, and with no end in sight.

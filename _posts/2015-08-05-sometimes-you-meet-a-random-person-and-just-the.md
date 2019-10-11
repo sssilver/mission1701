@@ -1,0 +1,5 @@
+---
+date: 2015-08-06 02:08:10 +0500
+layout: post
+---
+Sometimes you meet a random person and just the magnitude of their personality changes the way you’ll live your whole entire remaining life. And in that way they become a part of what you’re about, a beacon that you live towards like you’d live towards your own dreams coming true. And when one day your child looks at you in awe and reverence for that moment you’re throwing your leg over the seat, you think – baby, you really wanna meet Georg. It’s him you’re revering right now. I only absorbed him, and he lives inside of me. I became him, selflessly, and I’m so incredibly happy that you can experience him through me, even though it’s never quite the same. I’m so privileged to have had the opportunity to become partially Georg. It’s one of the most amazing ways I came to experience my own life and my own existence.

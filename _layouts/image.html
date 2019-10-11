@@ -1,0 +1,8 @@
+{% assign num_parts = page.image | split: "://" | size %}
+{% if num_parts > 1 %}
+  <img src="{{ page.image }}" />
+{% else %}
+  <img src="/assets/images/{{ page.image }}" />
+{% endif %}
+
+{{ page.content }}
