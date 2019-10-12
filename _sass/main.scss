@@ -8,6 +8,7 @@ body {
   line-height: 1.5em;
   max-width: 36em;
   margin: 6em auto;
+  padding: 1.25em;
 }
 
 article {
@@ -19,21 +20,36 @@ article h1 {
 }
 
 article img {
-  max-width: 100%;
+  max-width: calc(100% + 2.5em);
+  margin: 0 -1.25em;
 }
 
 footer {
   margin-top: 6em;
 }
 
-blockquote {
+article blockquote {
   margin: 0 0 0 calc(-1em );
   padding-left: calc(1em - 2px);
   border-left: 2px solid;
   font-style: italic;
 }
 
+article cite {
+  display: block;
+  font-style: normal;
+  text-align: right;
+}
+
 article time {
   font-size: 10pt;
   font-style: italic;
+}
+
+article iframe {
+  max-width: 100%;
+}
+
+article pre {
+  white-space: pre-wrap;
 }
